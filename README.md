@@ -73,7 +73,7 @@ Now application is up and running
 
 ### Actual Game For Reference
 
-![img_1](img_1.png)
+![img](img.png)
 
 ### As Per this Service:
 
