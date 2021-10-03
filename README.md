@@ -1,6 +1,6 @@
 # Kalah Game Service
 
-![Capture](Capture.png)
+![img_intro.png](img_intro.png)
 
 ## Description:
 
@@ -73,7 +73,7 @@ Now application is up and running
 
 ### Actual Game For Reference
 
-![img.png](img.png)
+![img_game.png](img_game.png)
 
 ### As Per this Service:
 
